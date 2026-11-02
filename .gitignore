@@ -1,0 +1,10 @@
+bbr_trainer.cpp
+bbr_trainer.exe
+bbr_trainer.obj
+BBR1 Trainer.bat
+.vs/
+*.bak
+*.bak_trainer
+*.orig_bak
+*.edit_bak
+*.gui_bak
